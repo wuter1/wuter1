@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuter1
 - 👀 I’m interested in SUBSET SIMULATION & MACHINE LEARNING
-- 🌱 I’m currently learning TUMUSUILI
+- 🌱 I’m currently learning  civil and hydraulic engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
